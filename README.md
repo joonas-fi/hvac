@@ -13,6 +13,7 @@ Control of HVAC equipment through ESPHome
 - [Henkan poreamme](henkan-poreamme/)
 - [NFC reader](nfc-reader/)
 - [Dishwasher](dishwasher/)
+- [VoIP](voip/) - VoIP server for landline phone funsies
 
 
 ## Programs
